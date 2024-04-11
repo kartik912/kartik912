@@ -1,8 +1,7 @@
 ![image](https://github.com/kartik912/kartik912/assets/99790726/348e172f-eedd-4a9b-9e2f-e4c13d818885)<h1 align="center">Hi 👋, I'm Kartik Yadav</h1>
 <h3 align="center">A passionate machine learning enthusiast, and developer</h3>
 
-<image align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-anime-gif-24565564&psig=AOvVaw3nAzJpA337nfBGWykAy381&ust=1712932759938000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCH4fuxuoUDFQAAAAAdAAAAABAJ">
-
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🌱 I’m currently learning **CI/CD pipelines and DevOps tools**
 
