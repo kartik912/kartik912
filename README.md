@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kartik Yadav</h1>
 <h3 align="center">A passionate machine learning enthusiast, and developer</h3>
 
+<image align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-anime-gif-24565564&psig=AOvVaw3nAzJpA337nfBGWykAy381&ust=1712932759938000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCH4fuxuoUDFQAAAAAdAAAAABAJ">
+
+
 - 🌱 I’m currently learning **CI/CD pipelines and DevOps tools**
 
 - 💬 Ask me about **neural network, machine learning and DevOps**
