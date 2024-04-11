@@ -1,4 +1,4 @@
-![image](https://github.com/kartik912/kartik912/assets/99790726/348e172f-eedd-4a9b-9e2f-e4c13d818885)<h1 align="center">Hi 👋, I'm Kartik Yadav</h1>
+<h1 align="center">Hi 👋, I'm Kartik Yadav</h1>
 <h3 align="center">A passionate machine learning enthusiast, and developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
